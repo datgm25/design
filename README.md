@@ -6,7 +6,7 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-# 1回目(4/)
+# 1回目(4/17)
 
 - [ガイダンス](https://docs.google.com/presentation/d/1tvOISbFwll-c7fmJ7qJVIciTp3ZknSEr/)
 - [環境の準備](https://docs.google.com/document/d/16MW6maMYvt8m-60RM5wU_LzJ5r-3Hm0WTnxoBGDzxIA/)
