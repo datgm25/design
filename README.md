@@ -16,11 +16,15 @@
 
 ### 内容
 
-- 講義：[ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
-  - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
-  - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
-  - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品を見てみよう
-    - 参考：[ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
+- 講義
+  - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/16VJ2M9ly2rlyg_CSHn2PX-UxZdwWcwDsLYLpMEWOknA/)
+    - 緊張と解放
+  - [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
+    - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
+    - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
+    - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck/) 受賞作品を見てみよう
+- 参考
+  - [ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
   - [遠藤雅伸. ゲーム道に通じるユーザーの振る舞いとゲームデザインへの応用](https://www.teu.ac.jp/ap_page/koukai/2019_03_3endo.pdf)
 
 ### 演習１：グループでアイディアを出し
