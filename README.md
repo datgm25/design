@@ -31,7 +31,7 @@
 - ブレスト
   - [面白法人カヤック. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)
 - 手順
-  - [こちら](https://docs.google.com/spreadsheets/d/12QztslN1uYTnrCuRWEV5-rHrGjffcMIdVDywBsCfbsg/)を右クリックして、新しいタブで開く
+  - [こちら](https://docs.google.com/spreadsheets/d/1NvhnYIoOGHVTS_dtwY_9lWs1cJ3J5DwJrwq9PHmBWt8/)を右クリックして、新しいタブで開く
     - シートの下から自分のグループのタブをクリックして開く
     - A列に、ホワイトボード側の人から順に思いついた単語を入力していく
     - ※ブレストの目的は、普通は出ないような飛躍的な案を出すこと
