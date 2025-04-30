@@ -18,7 +18,7 @@
 
 - 講義
   - [スライド:ゲームの定義や要素からミニゲームを考える](https://docs.google.com/presentation/d/16VJ2M9ly2rlyg_CSHn2PX-UxZdwWcwDsLYLpMEWOknA/)
-    - 緊張と解放
+    - 復習 + 緊張と解放
   - [ゲームデザインの基礎](https://docs.google.com/document/d/1ItqVAv-e-dnThzUF1o-8xucq7l95gel6FF9-96kBkpo/)
     - [Unity Learning Material. たのしさの作り方 ](https://learning.unity3d.jp/2618/)
     - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)のカードリストを眺める
