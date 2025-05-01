@@ -6,6 +6,26 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
+## 3回目(5/8)
+
+### 予定
+
+- 前回のブレスト企画をまとめる
+  - 参考
+    - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
+    - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
+    - [ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
+    - [nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう](https://nekogeek.jp/play-casual-games-a-lot/)
+    - 作例
+- Googleスライドを以下の手順で共有する
+  - 右上の 共有 をクリック
+  - リンクを知っている全員に変更 をクリック
+  - リンクをコピー をクリックして、完了をクリック
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
+- [Google Meet](https://meet.google.com/bwb-njcm-udh)で企画案の共有
+- [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
+
+
 ## 2回目(5/1)
 
 ### 話題
@@ -26,13 +46,9 @@
     - 過去の大会 > 見たい年度 > 結果発表はこちら！をクリック
 - 参考
   - [遠藤雅伸. ゲーム道に通じるユーザーの振る舞いとゲームデザインへの応用](https://www.teu.ac.jp/ap_page/koukai/2019_03_3endo.pdf)
-  - [ゲームクリエイターズギルド. Reverse Room](https://game.creators-guild.com/g4c/23951/?utm_source=rss&utm_medium=rss&utm_campaign=23951)
 
 ### 演習１：グループでアイディアを出し
 
-- ブレストの前に
-  - [EIKIさん. ゴリラが人類を強制的にSTAY HOMEさせるゲーム](https://youtu.be/-qWwYVWgczA?t=6719)・・・アイディアの転がし方、発注、ペース、進め方
-  - [tnkさん. 「斬新さ」から考えるゲーム開発](https://youtu.be/-qWwYVWgczA?t=3002)・・・プランナー的視点、斬新なアイディア
 - ブレスト
   - [面白法人カヤック. 始まりも終わりもブレスト](https://www.kayac.com/vision/brainstorm)
 - 手順
@@ -63,13 +79,6 @@
   - プレイヤーが「これは面白い！」と感じるクライマックスの瞬間を考える
   - ゲームデザインレンズデッキの1～5を参考にする
   - 考えた理由を最大に強調するための操作方法、ルール、ステージ、設定などを考える
-- 参考： [nekogeek. カジュアルゲームの最新ゲームを50本遊んで、企画の方向を考えよう](https://nekogeek.jp/play-casual-games-a-lot/)
-  - [作例](https://docs.google.com/presentation/d/1pU7q1oWEkPfATbvy5jhatJkDWsByfO3wpBh1KIKShrk/)
-
-### 時間があったら
-- [キー入力の練習](https://docs.google.com/document/d/1olAvmpehNVCLBdf329Ubas7FgygtEqyk5j9nyE-rTEI/edit#heading=h.ykvnuvatyepj)
-
-
 
 # 1回目(4/17)
 
