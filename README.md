@@ -6,9 +6,18 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 3回目(5/8)
+## 4回目(5/15)
 
 ### 予定
+
+- [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
+  - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+- [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
+  - 演習は飛ばす
+
+## 3回目(5/8)
+
+### 内容
 
 - 前回のブレスト企画をまとめる
   - 参考
@@ -24,7 +33,7 @@
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog) を開いて、氏名に名前を入力、URL欄を右クリックして、Ctrl + V キーでコピーしていたリンクを貼りつけて送信
 - [Google Meet](https://meet.google.com/bwb-njcm-udh)で企画案の共有
 - [ゲームメカニクス　ボードゲーム版](https://docs.google.com/document/d/1xGz1yZG_H4op19PyiOO5Bu4Gt9dHdlRItBZq05MFeYc/)
-
+  - ゲームの歴史まで
 
 ## 2回目(5/1)
 
