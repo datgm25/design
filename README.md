@@ -6,9 +6,34 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 4回目(5/15)
+## 5回目(5/22)
+
+### 話題
+- プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
 
 ### 予定
+- [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
+- [色とUIのデザイン](http://am1.space/dat/design/design4-color.pdf)
+  - [図](http://am1.space/dat/design/design4-color-fig.pdf)
+- 演習：企画の構想
+  - ワンキーゲームの構想をまとめる
+    - 横画面
+    - クリックでジャンプ
+    - 画面レイアウトや、面白場面を考える
+  - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
+  - ファイルメニューから コピーを作成 を選択
+  - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
+  - 右上の共有をクリックして、制限付きをクリック＞リンクを知っている全員に変更
+  - リンクをコピー＞完了
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)にURLを貼り付けて共有
+  - 以上でコピーしたドキュメントの各項目を記入していく
+    - 基本情報のうち、決まっていることを書く
+    - 企画の狙いを書く
+    - 思いついたところから、残りの項目を書く
+
+## 4回目(5/15)
+
+### 内容
 
 - [形のデザイン](https://am1.space/dat/design/design3-shape.pdf)
   - [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
