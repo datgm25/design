@@ -22,6 +22,7 @@
     - 参考：[ジャンプ＆ポン](https://docs.google.com/document/d/1094vOcSmarVTz6oveydEAVjaPNaae-sdmGNZ643abgQ/)
   - Googleスライドで、新規作成
   - ドキュメント名を、ワンキー：氏名
+  - 仮タイトルを表紙に（最後でよい）
   - 操作方法とルール
   - 画面レイアウトのラフスケッチ
   - 面白場面のラフスケッチ
