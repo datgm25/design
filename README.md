@@ -17,9 +17,11 @@
   - [図](http://am1.space/dat/design/design4-color-fig.pdf)
 - 演習：企画の構想
   - ワンキーゲームの構想をまとめる
+    - [ゲームの企画の鍵](https://docs.google.com/presentation/d/1drsBdUCuIgHrFO0VtAAmZxRTV8mqrM6x0UHr9U23YyY/)
     - 横画面
     - クリックでジャンプ
     - 画面レイアウトや、面白場面を考える
+    - 参考：[ジャンプ＆ポン](https://docs.google.com/document/d/1094vOcSmarVTz6oveydEAVjaPNaae-sdmGNZ643abgQ/)
   - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
   - ファイルメニューから コピーを作成 を選択
   - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
