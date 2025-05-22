@@ -20,16 +20,15 @@
     - [ゲームの企画の鍵](https://docs.google.com/presentation/d/1drsBdUCuIgHrFO0VtAAmZxRTV8mqrM6x0UHr9U23YyY/)
     - 画面レイアウトや、面白場面を考える
     - 参考：[ジャンプ＆ポン](https://docs.google.com/document/d/1094vOcSmarVTz6oveydEAVjaPNaae-sdmGNZ643abgQ/)
-  - [企画構想書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/)を開く
-  - ファイルメニューから コピーを作成 を選択
-  - 適当なフォルダーの場所を選択して、コピーを作成 をクリック
+  - Googleスライドで、新規作成
+  - ドキュメント名を、ワンキー：氏名
+  - 操作方法とルール
+  - 画面レイアウトのラフスケッチ
+  - 面白場面のラフスケッチ
   - 右上の共有をクリックして、制限付きをクリック＞リンクを知っている全員に変更
   - リンクをコピー＞完了
   - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)にURLを貼り付けて共有
-  - 以上でコピーしたドキュメントの各項目を記入していく
-    - 基本情報のうち、決まっていることを書く
-    - 企画の狙いを書く
-    - 思いついたところから、残りの項目を書く
+
 
 ## 4回目(5/15)
 
