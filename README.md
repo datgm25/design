@@ -19,7 +19,9 @@
   - ワンキーゲームの構想をまとめる
     - [ゲームの企画の鍵](https://docs.google.com/presentation/d/1drsBdUCuIgHrFO0VtAAmZxRTV8mqrM6x0UHr9U23YyY/)
     - 画面レイアウトや、面白場面を考える
-    - 参考：[ジャンプ＆ポン](https://docs.google.com/document/d/1094vOcSmarVTz6oveydEAVjaPNaae-sdmGNZ643abgQ/)
+    - 参考
+      - [ジャンプ＆ポン](https://docs.google.com/document/d/1094vOcSmarVTz6oveydEAVjaPNaae-sdmGNZ643abgQ/)
+      - [フルーツ洞窟](https://docs.google.com/presentation/d/15gL8iBUboiPvj6Po5NBouCa3Ge-vZpoxNUheVFlVe7Q/) 
   - Googleスライドで、新規作成
   - ドキュメント名を、ワンキー：氏名
   - 仮タイトルを表紙に（最後でよい）
