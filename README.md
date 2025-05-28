@@ -19,6 +19,7 @@
   - [2025年用、日本語のフリーフォント767種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
   - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 - 前回のワンキーゲームのモックアップを作る
+- 成果を[Gootle Meet](https://meet.google.com/bwb-njcm-udh)で共有
 
 
 ## 5回目(5/22)
