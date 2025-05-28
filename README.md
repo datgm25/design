@@ -27,9 +27,9 @@
 ### 話題
 - プロトタイプの例 [hempuli. TROVEMOUNT](https://hempuli.itch.io/trovemount?ac=qfCyYFQF-tw)
 
-### 予定
+### 内容
 - [レイアウト FOTORIA. 三分割法で写真の構図をバッチリ決定！イラストで撮影方法を解決](https://fotoria.net/ja/blog/bc/photo-shoot-techniques/sc/composition/ar/rule-of-thirds/)
-- [色とUIのデザイン](http://am1.space/dat/design/design4-color.pdf)
+- [色のデザイン](http://am1.space/dat/design/design4-color.pdf)
   - [図](http://am1.space/dat/design/design4-color-fig.pdf)
 - 演習：企画の構想
   - ワンキーゲームの構想をまとめる
