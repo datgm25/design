@@ -16,7 +16,7 @@
 - Unityでモックアップ作成-文字の表示-
   - [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
   - [TextMesh Proの使い方](https://am1.jp/tutorials/unity/tmpro/)
-  - [2025年用、日本語のフリーフォント767種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+  - [Coliss. 2025年用、日本語のフリーフォント767種類のまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
   - [TextMeshPro向け　ASCIIコード＋JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 - 前回のワンキーゲームのモックアップを作る
 - 成果を[Gootle Meet](https://meet.google.com/bwb-njcm-udh)で共有
