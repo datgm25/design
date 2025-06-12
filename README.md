@@ -22,11 +22,19 @@
     - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
     - [よけとる改仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
   - [作成手順のメモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - アセットストアの利用
   - kenney.nl
   - 入手元のURLを記録しておくこと (自作データなら不要)
     - クレジット画面を作って、記録すると楽。1週間ゲームジャムのunityroomには使用アセットの登録欄があるので、そこに記載しておけばよい。ドキュメントに記載でもよい
   - [必要な素材のリスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
+
+### 参考資料
+- [Unityでモックアップ作成](https://docs.google.com/document/d/17WatyZDngqasXH0k6hKGg8V-_9kEqqOViAhxmiuofhI/)
+- [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- [UnityのUI](https://docs.google.com/document/d/1oUDdWBGk2XUjAyt7RLHL2a1shBwrZp-ghrOb4wzGddk/)
+- [Coliss. 2024年用、日本語のフリーフォントまとめ](https://coliss.com/articles/freebies/japanese-free-fonts.html)
+- [TextMesh Pro向け ASCIIコード+JIS第1水準の文字](https://am1tanaka.hatenablog.com/entry/2019/10/14/183408)
 
 ## 8回目(6/12)
 
