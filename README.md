@@ -6,12 +6,33 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 8回目(6/12)
+## 9回目(6/19)
 
 ### 予定
 
+- モックアップ続き
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+  - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
+  - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
+    - [キャラ作成の作業メモ](https://docs.google.com/document/d/19vK5O5WOXNgs9MqsggJ9h80lp9jvd-NKs1KSADd6pXQ/)
+  - モックアップの共有
+- 習作ゲーム「よけとる」の素材集めとモック画面作成
+  - 企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
+    - [よけとる改仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作成手順のメモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+  - アセットストアの利用
+  - kenney.nl
+  - 入手元のURLを記録しておくこと (自作データなら不要)
+    - クレジット画面を作って、記録すると楽。1週間ゲームジャムのunityroomには使用アセットの登録欄があるので、そこに記載しておけばよい。ドキュメントに記載でもよい
+  - [必要な素材のリスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
+
+## 8回目(6/12)
+
+### 内容
+
 - [著作権概論](https://docs.google.com/document/d/15zRG0hcf9OU3TFoJ5vZL43AGPKCqewpD7KS_QYwntaA/)
-- アセットストアの利用
 - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 - モックアップ続き
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
