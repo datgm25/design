@@ -10,11 +10,11 @@
 
 ### 予定
 
+- [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
+  - [キャラ作成の作業メモ](https://docs.google.com/document/d/19vK5O5WOXNgs9MqsggJ9h80lp9jvd-NKs1KSADd6pXQ/)
 - モックアップ続き
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
-  - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
-    - [キャラ作成の作業メモ](https://docs.google.com/document/d/19vK5O5WOXNgs9MqsggJ9h80lp9jvd-NKs1KSADd6pXQ/)
   - モックアップの共有
 - 習作ゲーム「よけとる」の素材集めとモック画面作成
   - 企画と仕様
