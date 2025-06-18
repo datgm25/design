@@ -21,7 +21,6 @@
     - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
     - [よけとる企画構想書](https://docs.google.com/document/d/1_5TVtjLeAI1WNWdj_513CEu6j5TQfkuzzleMgOJOJPA/)
     - [よけとる改仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
-  - [作成手順のメモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
   - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - アセットストアの利用
   - kenney.nl
