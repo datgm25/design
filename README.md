@@ -21,7 +21,7 @@
     - [必要な素材のリスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
     - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - アセットストアの利用
-  - Kenney.nl
+  - [Kenney.nl](https://kenney.nl)
   - 入手元のURLを記録しておくこと (自作データなら不要)
     - クレジット画面を作って、記録すると楽。1週間ゲームジャムのunityroomには使用アセットの登録欄があるので、そこに記載しておけばよい。ドキュメントに記載でもよい
 - モックアップの共有
