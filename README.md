@@ -6,9 +6,25 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 9回目(6/19)
+## 10回目(6/26)
 
 ### 予定
+
+  - Googleドキュメントを新規に作成して、名前をYoketoruMemoにする
+    - グラフィックやフォント、音素材の入手元URLを記入
+    - その他、何かあればここにメモしておく
+- キャラのプレハブを揃える
+  - unitypackageで書き出す
+    - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「プレハブやシーンの受け渡しの手順」を参照
+- よけとるのモックアップ作成
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)に従って、プロジェクトを作成して、GitHubへPublish
+  - 書き出したunitypackageを、よけとるのプロジェクトに読み込む
+    - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「unitypackageファイルを統合する」を参照
+- BGMと効果音を探す
+
+## 9回目(6/19)
+
+### 内容
 
 - ワンキーゲームと習作ゲームのキャラを作る
   - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
