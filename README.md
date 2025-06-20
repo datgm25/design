@@ -17,10 +17,12 @@
   - unitypackageで書き出す
     - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「プレハブやシーンの受け渡しの手順」を参照
 - よけとるのモックアップ作成
-  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)に従って、プロジェクトを作成して、GitHubへPublish
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)の続き
   - 書き出したunitypackageを、よけとるのプロジェクトに読み込む
     - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「unitypackageファイルを統合する」を参照
+  - 仮のタイトル、ゲーム、ゲームオーバー、クリアシーンを作成する
 - BGMと効果音を探す
+
 
 ## 9回目(6/19)
 
