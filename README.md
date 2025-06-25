@@ -14,6 +14,9 @@
     - グラフィックやフォント、音素材の入手元URLを記入
     - その他、何かあればここにメモしておく
 - キャラのプレハブを揃える
+  - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
+    - [キャラ作成の作業メモ](https://docs.google.com/document/d/19vK5O5WOXNgs9MqsggJ9h80lp9jvd-NKs1KSADd6pXQ/)
+    - [必要な素材のリスト](https://docs.google.com/document/d/1jG55JBt66CVDBo8DmrLqCd7bnXH700PUSmkFwVCZzuk/)
   - unitypackageで書き出す
     - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「プレハブやシーンの受け渡しの手順」を参照
 - よけとるのモックアップ作成
@@ -22,6 +25,7 @@
     - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「unitypackageファイルを統合する」を参照
   - 仮のタイトル、ゲーム、ゲームオーバー、クリアシーンを作成する
 - BGMと効果音を探す
+- モックアップの構造の確認
 
 
 ## 9回目(6/19)
@@ -42,7 +46,7 @@
   - [Kenney.nl](https://kenney.nl)
   - 入手元のURLを記録しておくこと (自作データなら不要)
     - クレジット画面を作って、記録すると楽。1週間ゲームジャムのunityroomには使用アセットの登録欄があるので、そこに記載しておけばよい。ドキュメントに記載でもよい
-- モックアップの共有
+- モックアップの構造の確認
 - 参考
   - [ProBuilderの利用](https://docs.google.com/document/d/129pS_YQPJq3srmxEqCDMUX8a9aqGGnTy0OzaEPsajXU/)
 
