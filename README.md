@@ -10,9 +10,6 @@
 
 ### 予定
 
-  - Googleドキュメントを新規に作成して、名前をYoketoruMemoにする
-    - グラフィックやフォント、音素材の入手元URLを記入
-    - その他、何かあればここにメモしておく
 - キャラのプレハブを揃える
   - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
     - [キャラ作成の作業メモ](https://docs.google.com/document/d/19vK5O5WOXNgs9MqsggJ9h80lp9jvd-NKs1KSADd6pXQ/)
@@ -24,7 +21,11 @@
   - 書き出したunitypackageを、よけとるのプロジェクトに読み込む
     - [こちら](https://docs.google.com/document/d/10UpsXhB-dGMrBqmMvZow-xGcs57YMysIfNekGgEWkzM/)の「unitypackageファイルを統合する」を参照
   - 仮のタイトル、ゲーム、ゲームオーバー、クリアシーンを作成する
-- BGMと効果音を探す
+- アセット探し
+  - Googleドキュメントを新規に作成して、名前をYoketoruMemoにする
+    - グラフィックやフォント、音素材の入手元URLを記入
+    - その他、何かあればここにメモしておく
+  - BGMと効果音を探す
 - モックアップの構造の確認
 
 
