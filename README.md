@@ -6,9 +6,37 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
+## 11回目(7/3)
+
+### ゲーム制作班
+
+- 自力で使えそうなゲーム制作ツールを調べて選ぶ。管理者権限が不要なものであること。以下、候補例
+  - [ティラノビルダー](https://b.tyrano.jp/)
+  - [ティラノスクリプト](https://tyrano.jp/)
+  - [Microsoft MakeCode Arcade](https://arcade.makecode.com/)
+  - [GDevelop](https://gdevelop.io/ja-jp)
+  - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+    - [学生の記事](https://am1.space/dat/gp2/2024/06sakamoto.pdf)
+  - [Mind Render](https://mindrender.jp/)
+    - [学生の記事](https://am1.space/dat/gp2/2023/rep_tama.pdf)
+  - [RAPTEX](https://raptex.jp/)
+- 説明が英語でも、ブラウザーの翻訳機能や、Google翻訳、スマホのGoogleアプリの翻訳機能、[DeepL](https://www.deepl.com/ja/translator)などで、日本語にできる
+- 今週、ツールの選択と使い方の調査と、制作するゲーム内容を検討する。来週に、状況の共有予定
+- **学習のための基礎力を身に着けることが目的なので、成果が出なくても構わない**。自分のペースで、ドキュメントを探したり、読んだり、試したりすることが大切。1年間を費やすぐらいの気持ちで、じっくりと腰を据えて取り組んでほしい
+
+### プログラム班
+
+- 習作ゲーム「よけとる」の開発
+  - 習作ゲーム「よけとる」の企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
+    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+
+
 ## 10回目(6/26)
 
-### 予定
+### 内容
 
 - キャラのプレハブを揃える
   - [Unityのキャラクター用のゲームオブジェクトの構築](https://docs.google.com/document/d/1wsdsAdmLVoHagV71I1wJHpxXExgws9N6eZL54hWnLr8/)
