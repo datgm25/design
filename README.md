@@ -6,7 +6,11 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 11回目(7/3)
+## 11, 12回目(7/3, 10)
+
+### 話題
+
+- [ITmedia. ゲーム開発者100人超に聞く「生成AI、もう使ってる？」　クリエイティブ分野での利用度は](https://www.itmedia.co.jp/news/articles/2507/10/news042.html)
 
 ### ゲーム制作班
 
