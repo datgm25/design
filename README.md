@@ -6,6 +6,36 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
+## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
+以下のうち１つを選んで、夏休み中に完成させて、プロジェクトを提出する。
+
+- 選択肢１　Unityの教科書の改造
+  - 4章以降のサンプルを完成させる
+  - プログラムの変更が伴うアレンジを１つ以上考えて、アレンジ版を作成する
+  - OK例　新しいアイテムを追加 / 新しい敵を追加 / 新しい操作を追加
+  - NG例　絵の差し替えのみ / アニメの変更のみ
+- 選択肢２　オリジナルゲームを完成させる
+  - 自分で考えた企画を完成させる
+  - 使用するツールは学校で使えるものなら自由(Unity, GDevelop, ティラノスクリプト, Light.vnなど)
+- 選択肢３　ネット上で見つけたチュートリアルの改造
+  - ネット上でブログなどで紹介されている作品を完成させる
+  - 選択肢1と同じくプログラムの改変を伴う改造をする
+
+## 13回目(7/17)
+
+### ゲーム制作班
+
+- 調査結果の共有
+
+### プログラム班
+
+- 習作ゲーム「よけとる」の開発
+  - 習作ゲーム「よけとる」の企画と仕様
+    - [よけとる2021試遊版](https://github.com/datgm21/yoketoru2021-demo)
+    - [よけとる企画構想書](https://docs.google.com/document/d/1hSRJ4GtA8nCIfHVwJks-NzTap1iFulJQMzFpX0I6xWs/)
+    - [よけとる試作版仕様書](https://docs.google.com/spreadsheets/d/16jNh4mKVjusu1bzpv06IbR8abfwVfFfFzKCNs7Byw8g/)
+  - [作業メモ](https://docs.google.com/document/d/139s2h5dCGH0fvh0j7tg-gKrNKlMCavxMkTygmcRwSQg/)
+
 ## 11, 12回目(7/3, 10)
 
 ### 話題
