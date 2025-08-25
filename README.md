@@ -35,7 +35,7 @@
 - プロジェクト一式
 - 実行ファイル(ビルドできたら)
 - 夏休み課題のREADME.txtの作成とスクリーンショット、プロジェクト、実行ファイル(あれば)の提出
-  - [作例](https://github.com/datgm22/gp1/blob/main/sample_README.txt)
+  - [作例](https://github.com/datgm25/design/blob/main/sample_README.txt)
     - 公開先などは、なければ削除
     - 参考にしたものがあれば、その書籍名やURLと、自分で何を改造したかを書く
   - スクリーンショット1～2枚
