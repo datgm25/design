@@ -6,20 +6,7 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 14回目(8/28)
-
-### 話題
-
-- [Power Jump & Power Kick!!](https://am1tanaka.itch.io/pwjp-pwkick) Kenney Jam 2025参加作品
-
-### 予定
-
-- 夏休み課題の共有
-- 夏休み課題のとりまとめとWeb公開用素材の提出
-- 各企画の講評と改善点の検討
-
-
-### 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
+## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
 以下のうち１つを選んで、夏休み中に完成させて、プロジェクトを提出する。
 
 - 選択肢１　Unityの教科書の改造
@@ -35,16 +22,30 @@
   - 選択肢1と同じくプログラムの改変を伴う改造をする
 
 
-### 提出物
+## 14回目(8/28)
 
-- README.txtの作成とスクリーンショットの提出
-  - [README.txtの作例](https://github.com/datgm25/design/blob/main/sample_README.txt)
-    - 参考にしたものがあれば、その書籍名やURLと、自分で何を改造したかを書く
-    - 公開していない場合は公開先は不要
-    - 同様に、書くことがない項目は、削除する
-  - ゲーム内容がわかるスクリーンショット1枚以上
-  - 提出先
-    - フォルダー`Z:\2025\student\gp1\gp1夏休み`内に `出席番号 + 名前` のフォルダー(00tanakaなど)を作成して、その中にREADME.txtファイルとスクリーンショットファイルを提出する
+### 話題
+
+- [Power Jump & Power Kick!!](https://am1tanaka.itch.io/pwjp-pwkick) Kenney Jam 2025参加作品
+
+### 予定
+
+- 夏休み課題のとりまとめとWeb公開用素材の提出
+- 夏休み課題の共有(10時から)
+- 講評と改善点の検討
+
+### 提出
+
+- README.txt
+  - 参考にしたものがあれば、その書籍名やURLと、自分で何を改造したかを書く
+  - 公開していない場合は公開先は不要
+  - 同様に、書くことがない項目は、削除する
+  - README.txtの作例
+    - [よけとるのREADME.txtの作例](https://github.com/datgm25/design/blob/main/README_yoketoru.txt)
+    - [Power Jump & Power Kick!!のREADME.txtの作例](https://github.com/datgm25/design/blob/main/README_pjpk.txt)
+- ゲーム内容がわかるスクリーンショット1枚以上
+- 提出先
+  - フォルダー`Z:\2025\student\gp1\gp1夏休み`内に `出席番号 + 名前` のフォルダー(00tanakaなど)を作成して、その中にREADME.txtファイルとスクリーンショットファイルを提出する
 
 
 ## 13回目(7/17)
