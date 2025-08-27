@@ -1,5 +1,5 @@
 ==============================================================================
-- 作品名　：よけとる2020
+- 作品名　：よけとる2025
 - 著作者　：たなかゆう (@am1tanaka)
 - 開発環境：Windows11 + Unity6.0.44f1 + Visual Studio 2022
 - 動作環境：WebGL
@@ -18,22 +18,35 @@
 
 # 公開先
 
-- [ゲームのページを開く](https://datgm20.github.io/OpenYoketoru2020/WebGL/index.html)
+- https://datgm21.github.io/yoketoru2021-demo/
 
 # 使用アセット
 
-- BGM [SketchyLogic](https://opengameart.org/users/sketchylogic)
-  - https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
-- 効果音 [Digital SFX set by Kenney Vleugels (www.kenney.nl)](https://opengameart.org/users/kenney)
-  - https://opengameart.org/content/63-digital-sound-effects-lasers-phasers-space-etc
-- [NCMB SDK](https://github.com/NIFCLOUD-mbaas/ncmb_unity)
-- [fontopo. FontopoNIHONGO](https://fontopo.com/)
-- SimpleJSON
-  - The MIT License (MIT)
-  - Copyright (c) 2012-2017 Markus Göbel (Bunny83)
-- naichilab. [unity-Simple-ranking](https://github.com/naichilab/unity-simple-ranking)
-  - [naichilab/unity-simple-ranking is licensed under the MIT License](https://github.com/naichilab/unity-simple-ranking/blob/master/LICENSE)
+- Kenney https://kenney.nl/
+  - プレイヤー画像：雪だるま
+    - https://kenney.nl/assets/holiday-kit
+  - 敵：ハンマー
+    - https://kenney.nl/assets/food-kit
+  - 背景画像
+    - https://kenney.nl/assets/background-elements-redux
+  - ゲーム開始ジングル, アイテムを取った時の音, ハイスコアや戻る時に鳴らすクリック音
+    - https://kenney.nl/assets/interface-sounds
+  - ミスした時の音
+    - https://kenney.nl/assets/digital-audio
+- OpenGameArt.org https://opengameart.org/
+  - タイトル曲
+    - https://opengameart.org/content/town-theme-rpg
+  - ゲーム中の曲
+    - https://opengameart.org/content/4-chiptunes-adventure
+  - クリアジングル
+    - https://opengameart.org/content/summer-sunday
+- フロップデザイン https://flopdesign.booth.pm/
+  - やさしさゴシックV2
+    - https://flopdesign.booth.pm/items/1833993
+    - タイトル用フォント(SIL Openライセンス)
+  - フロップデザインフォント https://www.flopdesign.com/freefont/flopdesignfont.html
+    - ゲーム中用の2種類程度のフォント(M+ / IPAライセンス)
 
 # 更新履歴
 
-- Ver0.9.2 最初の公開
+- Ver0.9.2(2025/8/28) 最初の公開
