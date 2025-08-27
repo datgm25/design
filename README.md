@@ -8,6 +8,10 @@
 
 ## 14回目(8/28)
 
+### 話題
+
+- [Power Jump & Power Kick!!](https://am1tanaka.itch.io/pwjp-pwkick) Kenney Jam 2025参加作品
+
 ### 予定
 
 - 夏休み課題の共有
