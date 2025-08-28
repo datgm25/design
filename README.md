@@ -32,7 +32,7 @@
 
 - 夏休み課題のとりまとめとWeb公開用素材の提出
 - 夏休み課題の共有(10時から)
-- 講評と改善点の検討
+- [講評と改善点の検討](https://docs.google.com/document/d/1UL6mu3DTwFP3z9VKShZu_RMezRj1IhaHHxXTxTKv290/)
 
 ### 提出
 
