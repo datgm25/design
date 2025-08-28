@@ -30,15 +30,15 @@
 
 # 公開先
 
-- [ゲームの公開ページ](https://am1tanaka.itch.io/pwjp-pwkick)
+- https://am1tanaka.itch.io/pwjp-pwkick
 
 
 # 使用アセット
 
 - 画像・BGM・効果音
-  - [Kenney.nl](https://kenney.nl/)
+  - Kenney.nl https://kenney.nl/
 - フォント
-  - [The M+ FONTS Project Authors. MPLUS_FONTS](https://github.com/coz-m/MPLUS_FONTS)
+  - The M+ FONTS Project Authors. MPLUS_FONTS https://github.com/coz-m/MPLUS_FONTS
 
 
 # 更新履歴
