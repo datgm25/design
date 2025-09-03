@@ -6,6 +6,17 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
+## 15回目(9/4)
+
+### 予定
+
+- DATフェスタに向けた企画の検討
+- 現時点での意向の共有
+  - [講評と改善点の検討](https://docs.google.com/document/d/1UL6mu3DTwFP3z9VKShZu_RMezRj1IhaHHxXTxTKv290/)
+- 企画と仕様の検討
+  - 後期1回目で確認予定（10/2）
+
+
 ## 夏休み課題(ゲームデザイン実習、ゲームプログラミング共通)
 以下のうち１つを選んで、夏休み中に完成させて、プロジェクトを提出する。
 
@@ -28,7 +39,7 @@
 
 - [Power Jump & Power Kick!!](https://am1tanaka.itch.io/pwjp-pwkick) Kenney Jam 2025参加作品
 
-### 予定
+### 内容
 
 - 夏休み課題のとりまとめとWeb公開用素材の提出
 - 夏休み課題の共有(10時から)
