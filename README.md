@@ -11,6 +11,8 @@
 ### 予定
 
 - DATフェスタに向けた企画の検討
+  - 夏休み課題の展示の希望
+  - 作りたい作品の概要
 - 現時点での意向の共有
   - [講評と改善点の検討](https://docs.google.com/document/d/1UL6mu3DTwFP3z9VKShZu_RMezRj1IhaHHxXTxTKv290/)
 - 企画と仕様の検討
