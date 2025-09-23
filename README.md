@@ -6,9 +6,23 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 15回目(9/4)
+
+## 後期1回目(10/2)
 
 ### 予定
+
+- DATフェスタ企画の検討と共有
+- 仕様と作業リスト作成
+- ゲーム画面の録画
+  - Windowsの機能を使う
+  - ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
+
+
+---
+
+## 15回目(9/4)
+
+### 内容
 
 - DATフェスタに向けた企画の検討
   - 夏休み課題の展示の希望
