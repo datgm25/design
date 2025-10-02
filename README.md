@@ -16,6 +16,7 @@
 ### 予定
 
 - DATフェスタ企画の検討と共有
+  - [DATフェスタ作業メモ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - 仕様と作業リスト作成
 - ゲーム画面の録画
   - Windowsの機能を使う
