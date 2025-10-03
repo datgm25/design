@@ -6,6 +6,25 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
+## 後期2回目(10/9)
+
+### 予定
+
+- DATフェスタ企画の検討と共有
+  - [DATフェスタ作業メモ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
+- 作業リストの進捗チェック
+- 進捗を聞き取りながら、企画概要をまとめる
+
+
+### ゲーム画面の録画
+
+- Windowsの機能を使う
+  - ゲームを実行する
+  - Win + Alt + Rキーで、録画開始。同じ操作で、録画停止
+  - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
+- ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
+
+
 
 ## 後期1回目(10/2)
 
@@ -13,7 +32,7 @@
 
 - [ゲームクリエイター甲子園2025](https://game.creators-guild.com/gck/)
 
-### 予定
+### 内容
 
 - DATフェスタ企画の検討と共有
   - [DATフェスタ作業メモ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
