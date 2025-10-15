@@ -6,11 +6,16 @@
 - [URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)
 - [Slack](https://datgm25.slack.com)
 
-## 後期2回目(10/9)
+## ゲーム画面の録画
 
-### 話題
+- Windowsの機能を使う
+  - ゲームを実行する
+  - Win + Alt + Rキーで、録画開始。同じ操作で、録画停止
+  - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
+- ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
 
-- [「ティアキン」スクラビルドは“12万通り”全組み合わせを手作業チェック！ 「ムリでは？」から始まる実装までの道のり](https://game.watch.impress.co.jp/docs/kikaku/1617761.html)
+
+## 後期3回目(10/16)
 
 ### 予定
 
@@ -19,14 +24,31 @@
 - 作業リストの進捗チェック
 - 進捗を聞き取りながら、企画概要をまとめる
 
+### インストラクションカードの作成
+- [インストラクションカードとは](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89)
+  - [例](https://www.google.com/search?q=%E3%82%A2%E3%83%BC%E3%82%B1%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0+%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4_tjW6tXzAhVFeXAKHTSpBNcQ_AUoAXoECAEQAw&biw=1035&bih=891&dpr=1)
+  - A4カラー or A3カラーの横 1ページ
+  - アクリルスタンドで立てる(A4縦)か、モニターに貼る(A3横)
+  - ゲームタイトル、ゲーム概要、操作説明、ルール、開発メンバークレジットを書く
+  - PowerPointを使って、A4の縦方向に設定する例。それぞれ、作りたいカードにあわせて読み替える
+    - デザインタブに切り替え
+    - スライドのサイズから、ユーザー設定のスライドのサイズを選択
+    - スライドのサイズ指定をA4、印刷の向きをスライドの縦を選択してOK
 
-### ゲーム画面の録画
 
-- Windowsの機能を使う
-  - ゲームを実行する
-  - Win + Alt + Rキーで、録画開始。同じ操作で、録画停止
-  - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
-- ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
+## 後期2回目(10/9)
+
+### 話題
+
+- [「ティアキン」スクラビルドは“12万通り”全組み合わせを手作業チェック！ 「ムリでは？」から始まる実装までの道のり](https://game.watch.impress.co.jp/docs/kikaku/1617761.html)
+
+### 内容
+
+- DATフェスタ企画の検討と共有
+  - [DATフェスタ作業メモ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
+- 作業リストの進捗チェック
+- 進捗を聞き取りながら、企画概要をまとめる
+
 
 
 
