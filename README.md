@@ -19,6 +19,12 @@
 
 ### 予定
 
+- Unity6.2への移行
+  - GitHubへ、最新版をコミットして、プッシュ
+  - unity6_0というブランチを作成
+  - masterブランチに戻して、Unity6.2で開く
+  - 問題なければ、Unity6.2で開発を継続
+  - 問題が出たら、unity6_0ブランチに切り替えて、これまでのバージョンで開発する
 - DATフェスタ企画の検討と共有
   - [DATフェスタ作業メモ](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - 作業リストの進捗チェック
