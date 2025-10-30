@@ -19,6 +19,7 @@
 
 ### 予定
 
+- 質問があれば、[URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)から、URL欄に質問を書いて送信してください
 - Unity6.2への移行
   - GitHubへ、最新版をコミットして、プッシュ
   - unity6_0というブランチを作成
