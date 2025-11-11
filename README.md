@@ -14,10 +14,42 @@
   - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
 - ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
 
+## 後期6回目(11/13)
+
+### 今後の1年生の進行
+
+- ポートフォリオの作成
+- DATフェスタのデータを取りまとめて、可能な範囲でWeb公開
+
+### 予定
+
+- 展示成果の共有と講評
+  - DATフェスタに展示した実行ファイルを、指定のフォルダーへコピーして提出。すでに展示版になっていたらこの作業は不要
+  - DATフェスタ講評
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオとは何か、作る際に最初にやること、などを確認
+    - [paizaラーニング. ITエンジニアの就活準備編2: ポートフォリオ制作 ＃01:Webページを作ろう](https://paiza.jp/works/career/primer/career2/8010)
+    - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
+  - ポートフォリオの例
+    - [Chomado's Portfolio(ちょまど)](https://chomado.com/chomado/)
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2024年度の作例](https://github.com/datgm24/portfolio)
+- DATフェスタ版のビルドデータ、インストカードのデータ、プロジェクトの提出
+  - Unity
+    - インストカードのデータを、Unityのプロジェクトフォルダーにコピーする
+    - GitHubに最新版をコミット、プッシュ
+  - ティラノ
+    - プロジェクトフォルダーをZIP圧縮する
+    - `Z:\2025\student\gp1\DATフェスタ展示版プロジェクト一式`フォルダーを開いて、新しいフォルダーを作成して、フォルダー名を作品名に変更
+    - 圧縮したZIPファイルと、インストカードのデータを作成したフォルダーにコピーする
+
+
+
+
 
 ## 後期3, 4回目(10/16, 23)
 
-### 予定
+### 内容
 
 - 質問があれば、[URLなどの報告](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)から、URL欄に質問を書いて送信してください
 - Unity6.2への移行
