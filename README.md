@@ -25,7 +25,7 @@
 
 - 展示成果の共有と講評
   - DATフェスタに展示した実行ファイルが入っているフォルダーを、`Z:\2025\student\gp1\DATフェスタ`フォルダーへコピーして提出
-  - DATフェスタ講評
+  - [DATフェスタ講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
 - [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
   - ポートフォリオとは何か、作る際に最初にやること、などを確認
     - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
