@@ -14,6 +14,18 @@
   - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
 - ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
 
+## 後期7回目(11/20)
+
+### 予定
+
+- [ポートフォリオページの作成](https://docs.google.com/document/d/1QbUmT97-DdaIApRuugYi3A8OdDgw58fw0C4l4QOCtzg/)
+  - ポートフォリオとは何か、作る際に最初にやること、などを確認
+    - [ゲームクリエイターズギルド. ポートフォリオは自分ブランディング！見せ方を設計しよう【ゲーム業界就活】](https://game.creators-guild.com/g4c/shukatsu-20210215)
+  - ポートフォリオの例
+    - [過去の講義の作例](https://github.com/tanakaedu/portfolio-with-markdown/blob/main/portfolio-example.md)
+    - [2024年度の作例](https://github.com/datgm24/portfolio)
+
+
 ## 後期6回目(11/13)
 
 ### 今後の1年生の進行
@@ -21,7 +33,7 @@
 - ポートフォリオの作成
 - DATフェスタのデータを取りまとめて、可能な範囲でWeb公開
 
-### 予定
+### 内容
 
 - 展示成果の共有と講評
   - DATフェスタに展示した実行ファイルが入っているフォルダーを、`Z:\2025\student\gp1\DATフェスタ`フォルダーへコピーして提出
