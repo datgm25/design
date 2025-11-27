@@ -26,6 +26,11 @@
     - 修正した内容は、自動的に保存される。そのままブラウザーを閉じてOK
   - [仕様書の作例：Voxelorer Birdひよこ編](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
     - おまけ：[企画概要書](https://docs.google.com/document/d/1n1Oxek9KgKN5j5TC0U0y48OSzzlLONp_oDUDpGcu20s/)
+  - 提出
+    - 仕様書の右上の共有をクリック
+    - 制限付きを、リンクを知っている全員に変更
+    - リンクをコピーを選択
+    - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)を開いて、氏名とURLを送信する
 
 ## 後期7回目(11/20)
 
