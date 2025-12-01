@@ -14,9 +14,23 @@
   - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
 - ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
 
-## 後期8回目(11/27)
+## 後期9回目(12/4)
+
+### 話題
+
+- [AUTOMATON. 中堅ゲーム開発会社は、どういうスタッフがいて、どういう悩みがあるのか？またどういう採用をする？設立35年コツコツ、大阪ゲーム会社オーツーに訊いた](https://automaton-media.com/articles/newsjp/otwo-20251201-369179/)
 
 ### 予定
+
+- [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
+  - [装備画面のUI実装の続き](https://docs.google.com/document/d/1tyMS1Y076hycMkQFMKQWXACRdbJA6KfSZpRWbcPZKEI/)：もくもく会形式
+    - [スプレッドシートの仕様書](https://docs.google.com/spreadsheets/d/1qusTws8oMFTOy1PDpjUa1Xeha6XBeEbWXAifthN0rfM/)
+    - 細かい作業がたくさんあり、また修正も発生することで、作業しながら解説すると分かりにくくなりそうなので、一旦、完成させてから解説する予定
+
+
+## 後期8回目(11/27)
+
+### 内容
 
 - 仕様書の作成
   - [仕様書のテンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/)
