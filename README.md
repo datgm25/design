@@ -14,13 +14,39 @@
   - Win + Gキーでメニューを表示して、カメラアイコンをクリックして、キャプチャを表示を選択すると、録画した動画を確認できる
 - ChatGPTで、「Unity Recorderを使って、プレイ画面を録画する手順を示せ」と聞く
 
+## 後期12回目(1/8)
+
+### 予定
+
+- 12月中から正月休みまでの成果報告とポートフォリオへの反映
+  - 1週間ゲームジャムに投稿した作品があれば、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)からunityroomのURLを報告
+  - 作品のスクリーンショットを用意して、ポートフォリオへ反映させる
+- 開発リポジトリーを講師(tanakaedu)に共有
+  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
+- 卒業制作に向けた企画の検討
+  - 開発するかに関わらず、まずはアイディアを出す
+  - 狙う面白さがはっきりとした企画を探す
+  - 周りの人たちと話して、チームを組めそうなメンバーを探す
+  - 14週目までに、次のものを用意する
+    - 企画概要書
+    - ゲーム画面のサムネイル
+    - 仮ステージ案
+    - モックアップ画面
+
+
+## 後期10, 11回目(12/11, 18)
+
+### 内容
+
+- 1週間ゲームジャムの準備
+
 ## 後期9回目(12/4)
 
 ### 話題
 
 - [AUTOMATON. 中堅ゲーム開発会社は、どういうスタッフがいて、どういう悩みがあるのか？またどういう採用をする？設立35年コツコツ、大阪ゲーム会社オーツーに訊いた](https://automaton-media.com/articles/newsjp/otwo-20251201-369179/)
 
-### 予定
+### 内容
 
 - [DATフェスタ講師講評](https://docs.google.com/document/d/1hlvOA0Y5QwyDMy0n_DADNNKveL0U5viiOXfaFvGjaDk/)
   - [装備画面のUI実装の続き](https://docs.google.com/document/d/1tyMS1Y076hycMkQFMKQWXACRdbJA6KfSZpRWbcPZKEI/)：もくもく会形式
