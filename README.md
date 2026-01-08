@@ -20,9 +20,9 @@
 
 - 12月中から正月休みまでの成果報告とポートフォリオへの反映
   - 1週間ゲームジャムに投稿した作品があれば、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)からunityroomのURLを報告
+  - 開発リポジトリーを講師(tanakaedu)に共有
+    - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
   - 作品のスクリーンショットを用意して、ポートフォリオへ反映させる
-- 開発リポジトリーを講師(tanakaedu)に共有
-  - [UnityのプロジェクトをGitで管理するように設定して、GitHubにPublishする手順](https://github.com/datgm22/design/blob/main/github-unity.md)
 - 卒業制作に向けた企画の検討
   - 開発するかに関わらず、まずはアイディアを出す
   - 狙う面白さがはっきりとした企画を探す
