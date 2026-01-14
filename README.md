@@ -24,10 +24,13 @@
   - 狙う面白さがはっきりとした企画を探す
   - 周りの人たちと話して、チームを組めそうなメンバーを探す
   - 14週目までに、次のものを用意する
-    - 企画概要書
+    - 企画概要書([企画概要書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/))
+      - [企画概要書例：オープン版Voxelorer Bird企画構想](https://docs.google.com/document/d/1n1Oxek9KgKN5j5TC0U0y48OSzzlLONp_oDUDpGcu20s/)
     - ゲーム画面のサムネイル
     - 仮ステージ案
     - モックアップ画面
+    - 仕様書([仕様書テンプレート](https://docs.google.com/spreadsheets/d/1dSyVz3NBG7-zUDoey8ss6yPZwC6486fVwh4LGlNNvPM/))
+      - [仕様書例：オープン版Voxelorer Bird仕様書](https://docs.google.com/spreadsheets/d/1z6rZWF8qitYePpJ-e99rQprVXpgaBVB05CYN53RaDE0/)
 
 
 ### ポートフォリオなど残り作業
