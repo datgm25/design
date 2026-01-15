@@ -27,6 +27,7 @@
   - 14週目までに、次のものを用意する
     - 企画概要書([企画概要書テンプレート](https://docs.google.com/document/d/1Zc5_lcB1Uc41Ww1nXsJF5EkJlu2GNoCfobYFhTnJPTs/))
       - [企画概要書例：オープン版Voxelorer Bird企画構想](https://docs.google.com/document/d/1n1Oxek9KgKN5j5TC0U0y48OSzzlLONp_oDUDpGcu20s/)
+      - [企画概要書例：よけとる for Godot](https://docs.google.com/document/d/1E7ctLmmJovm_vnJwdyBbEtSr_kGpcHX6T3GHDXbs6Bo/)
     - ゲーム画面のサムネイル
     - 仮ステージ案
     - モックアップ画面
