@@ -20,6 +20,7 @@
 
 - ポートフォリオ締め切り
 - 卒業制作を想定した企画の仕上げと共有
+  - [こちら](https://docs.google.com/forms/d/e/1FAIpQLSfXGJvYbiwt1qQLB5GhHJJFp_NxH939IvLUvGuzuWzW6WgUvQ/viewform?usp=dialog)へ共有URLを報告
   - 開発するかに関わらず、アイディアを出す
   - 狙う面白さがはっきりとした企画を探す
   - 周りの人たちと話して、チームを組めそうなメンバーを探す
