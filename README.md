@@ -19,7 +19,7 @@
 ### 予定
 
 - [企画概要書の講評](https://docs.google.com/document/d/1wWSeZ_YeR18M3_cSwzRXtVij9HwtDh4Q9vAPMX-YzRY/)
-- プログラムの再設計チャレンジで、ShipCollectorで、操作と動作を分けるメリットを実演
+- プログラムの再設計チャレンジの解答例
 
 ## 後期14回目(1/22)
 
